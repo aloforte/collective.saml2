@@ -26,3 +26,4 @@ projects
 .codeintel
 .installed.cfg
 .mr.developer.cfg
+.vagrant
